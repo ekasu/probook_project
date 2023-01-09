@@ -1,0 +1,39 @@
+.home-text-color {
+    color: white;
+}
+
+ul li a {
+    color: white;
+}
+
+ul li a:hover {
+    color: bisque;
+}
+
+.logo {
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.img-dimension {
+    width: 450px;
+    height: 400px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.listitem {
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.icon-design {
+    font-size: 38px;
+    color: rgb(70, 77, 216);
+    border: 1px solid rgb(70, 77, 216);
+    border-radius: 90%;
+}
